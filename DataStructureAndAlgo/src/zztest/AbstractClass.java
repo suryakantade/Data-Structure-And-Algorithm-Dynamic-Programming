@@ -6,6 +6,7 @@ public  class AbstractClass {
 	}
 	public static void main(String[] args) {
 		method();
+		int[] myarr = {};
 	}
 	public static void method(){
 		System.out.println(Runtime.getRuntime().availableProcessors());

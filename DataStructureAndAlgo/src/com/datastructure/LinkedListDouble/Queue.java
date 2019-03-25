@@ -1,4 +1,4 @@
-package com.surya.LinkedListDouble;
+package com.datastructure.LinkedListDouble;
 
 import java.util.Arrays;
 

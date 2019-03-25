@@ -1,4 +1,4 @@
-package com.surya.graph;
+package com.datastructure.graph;
 
 import java.util.HashSet;
 

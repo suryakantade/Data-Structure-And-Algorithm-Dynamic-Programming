@@ -8,7 +8,7 @@ class Alpha
         s += "alpha ";
     }
 }
-private class SubAlpha extends Alpha 
+ class SubAlpha extends Alpha 
 {
 	
 }

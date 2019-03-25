@@ -1,0 +1,6 @@
+Durability score:Durability score                </span><div class=\"score-value rating-text\">(.*?)<
+Valuation score:Valuation score                </span><div class=\"score-value rating-text\">(.*?)<
+Momentum score:Momentum score                </span><div class=\"score-value rating-text\">(.*?)<
+Market Capitalization:Market Capitalizati...                </span><div class=\"score-value rating-text\">(.*?)<
+AVG Broker Target:AVG Broker Target                </span><div class=\"score-value rating-text\">(.*?)<
+PE TTM Price to Earnings:PE TTM Price to Ear...                </span><div class=\"score-value rating-text\">(.*?)<

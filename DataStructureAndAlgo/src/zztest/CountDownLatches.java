@@ -13,8 +13,9 @@ public class CountDownLatches {
 		// TODO Auto-generated method stub
 		CountDownLatch latch = new CountDownLatch(11);
 		ExecutorService executor = Executors.newFixedThreadPool(3);
+		List<Future> lis= new ArrayList<>();
 		for (int i = 0; i < 10; i++) {
-			List<Future> lis= new ArrayList<>();
+			
 			lis.add(executor.submit(new Processor(latch, i)));
 		}
 		try {
