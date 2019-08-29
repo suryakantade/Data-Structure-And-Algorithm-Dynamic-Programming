@@ -16,5 +16,5 @@ public class StackWithArray {
 
 }
 class CustomizedStack<E> {
-	Object[] arr = new 
+	//Object[] arr = new
 }

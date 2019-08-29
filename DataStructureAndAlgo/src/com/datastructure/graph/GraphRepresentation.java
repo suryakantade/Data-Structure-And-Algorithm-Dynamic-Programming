@@ -17,7 +17,7 @@ class Graph<E>{
 	public void addEdge(Integer vertexNo, Object dest){
 		this.adjacencyList[vertexNo].add((E) dest);
 		//this is a bi directional graph
-		this.adjacencyList[(int)((E) dest)].add((E)vertexNo);
+		this.adjacencyList[(Integer) ((E) dest)].add((E)vertexNo);
 	}
 	public void printGraph(){
 		for(int i = 0 ;i<this.noOfVertex;i++){
