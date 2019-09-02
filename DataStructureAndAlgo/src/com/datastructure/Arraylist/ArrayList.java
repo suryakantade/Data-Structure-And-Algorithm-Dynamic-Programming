@@ -1,4 +1,4 @@
-package com.datastructure;
+package com.datastructure.Arraylist;
 
 import com.sun.tools.javac.util.Assert;
 
@@ -25,7 +25,7 @@ public class ArrayList<E>{
   }
 
   public E get(int index){
-    Assert.check(size<index||index<0,"Array index out of bound");
+    Assert.check(size>index || index>=0,"Array index out of bound");
     return (E)arr[index];
   }
 
@@ -40,8 +40,8 @@ public class ArrayList<E>{
     }
   }
   public void remove(int index){
-    Assert.check(size<index||index<0,"Array index out of bound");
-    for (int i = index; i < size-1; i++) {
+    Assert.check(size>index || index>=0,"Array index out of bound");
+    for (int i = index; i < size; i++) {
       arr[i]=arr[i+1];
     }
     size--;

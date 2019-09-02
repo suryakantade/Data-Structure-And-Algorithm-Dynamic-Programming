@@ -20,10 +20,10 @@ public class Node<T> {
     Prev = prev;
   }
 
-  @Override
+  /*@Override
   public String toString() {
     return "Node [value=" + value + ", next=" + next + ", Prev=" + Prev + "]";
-  }
+  }*/
 
   public T getValue() {
     return value;
