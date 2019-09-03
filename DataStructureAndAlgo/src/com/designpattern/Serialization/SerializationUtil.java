@@ -1,4 +1,4 @@
-package com.surya.Serialization;
+package com.designpattern.Serialization;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

@@ -1,6 +1,4 @@
-package com.surya.Serialization;
-
-import java.io.Serializable;
+package com.designpattern.Serialization;
 
 public class Employee /*implements Serializable*/ {
 	/**

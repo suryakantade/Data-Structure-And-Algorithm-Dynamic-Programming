@@ -1,4 +1,4 @@
-package com.surya.designpattern;
+package com.designpattern.designpattern;
 
 public class AbstractFactoryPattern {
 

@@ -1,4 +1,4 @@
-package com.surya.dynamicprogramming;
+package com.designpattern.dynamicprogramming;
 
 public class MaximumPathSumThatStartingWithAnyCellOf0thRowAndEndingWithAnyCellOfNthRow {
 

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.surya.Serialization;
+package com.designpattern.Serialization;
 
 import java.io.Serializable;
 
