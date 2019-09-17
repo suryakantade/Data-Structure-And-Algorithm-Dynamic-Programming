@@ -27,8 +27,34 @@ public class BinaryTree {
     binaryTree.insertInLevelOrder(binaryTree.root, new TreeNode(8));
   }
 
-  public void inOrder(TreeNode root) {
+  public void inOrderTraversal(TreeNode root) {
+    if (null != root.getLeft()) {
+      inOrderTraversal(root.getLeft());
+    }
+    System.out.print(" " + root.val);
+    if (null != root.getRight()) {
+      inOrderTraversal(root.getRight());
+    }
+  }
 
+  public void preOrder(TreeNode root) {
+    System.out.print(" " + root.val);
+    if (null != root.getLeft()) {
+      preOrder(root.getLeft());
+    }
+    if (null != root.getRight()) {
+      preOrder(root.getRight());
+    }
+  }
+
+  public void postOrder(TreeNode root) {
+    if (null != root.getLeft()) {
+      postOrder(root.getLeft());
+    }
+    if (null != root.getRight()) {
+      postOrder(root.getRight());
+    }
+    System.out.print(" " + root.val);
   }
 
   public void levelOrder(TreeNode root) {

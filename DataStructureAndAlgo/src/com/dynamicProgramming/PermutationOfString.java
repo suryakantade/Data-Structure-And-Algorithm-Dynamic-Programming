@@ -6,6 +6,7 @@ public class PermutationOfString {
     ps.getAllPermutation("asdf","");
   }
   // a s d f g
+  //1 2 3 4 5 -2
   public void getAllPermutation(String s, String tmp){
     System.out.println(tmp);
     if (null == s || s.isEmpty()){
