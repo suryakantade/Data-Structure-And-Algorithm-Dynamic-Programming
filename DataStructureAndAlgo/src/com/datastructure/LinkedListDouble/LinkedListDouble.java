@@ -9,7 +9,7 @@ public class LinkedListDouble {
 
   public static void main(String[] args) {
     LinkedListDouble ls = new LinkedListDouble();
-    ls.createList();
+    ls.createList(10);
     Map<String, String> aaaa = new HashMap<String, String>();
     //ls.addFirst(11);
     ls.traverse(ls.source);
@@ -53,13 +53,24 @@ public class LinkedListDouble {
     }
   }
 
-  public void createList() {
-    for (int i = 0; i < 6; i++) {
+  public void createList(int n) {
+    for (int i = 1; i < n; i++) {
       addNodeInEnd(i);
     }
   }
 
-  public boolean addNodeInEnd(Integer val) {
+  public void createBinaryList(int n) {
+    for (int i = 1; i < n; i++) {
+      addNodeInEnd(i%2);
+    }
+  }
+  public void create2DList(int n) {
+    for (int i = 1; i < n; i++) {
+      addNodeInEnd(i);
+    }
+  }
+
+  public boolean  addNodeInEnd(Integer val) {
 
     // tmp = tmp==null ? new Node(val, null, null):tmp;
     if (this.source == null) {
@@ -129,6 +140,16 @@ public class LinkedListDouble {
     Node node = new Node(val, this.source, null);
     source.Prev = node;
     source = node;
+  }
+
+  public int size(Node root) {
+    int count = 0;
+    Node tmp  = root;
+    while(tmp.hasNext()){
+      count++;
+      tmp = tmp.next;
+    }
+    return count;
   }
 
   public Node findNthNodeFromEnd(Node node, int index) {

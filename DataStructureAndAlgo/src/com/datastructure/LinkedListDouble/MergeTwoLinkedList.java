@@ -6,9 +6,9 @@ public class MergeTwoLinkedList {
   String s = "";
   public static void main(String[] args) {
     LinkedListDouble ls = new LinkedListDouble();
-    ls.createList();
+    ls.createList(12);
     LinkedListDouble ls1 = new LinkedListDouble();
-    ls1.createList();
+    ls1.createList(12);
     LinkedListDouble linkedListDouble = mergeTwoList(ls,ls1);
     linkedListDouble.traverse(linkedListDouble.source);
   }
