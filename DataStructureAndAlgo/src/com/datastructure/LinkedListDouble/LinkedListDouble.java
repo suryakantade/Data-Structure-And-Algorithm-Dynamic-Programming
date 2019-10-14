@@ -64,6 +64,11 @@ public class LinkedListDouble {
       addNodeInEnd(i%2);
     }
   }
+  public void create2DList(int n) {
+    for (int i = 1; i < n; i++) {
+      addNodeInEnd(i);
+    }
+  }
 
   public boolean  addNodeInEnd(Integer val) {
 
