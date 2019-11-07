@@ -1,0 +1,12 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(óï€ÿÿÿÿÿ
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¡öíëûÿÿÿÿ
+Usquid:S1155">Use isEmpty() to check whether the collection is empty or not.(´Ø°
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰Ô®¼şÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼åÙ±
+Nsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+gsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(”¥í

@@ -1,0 +1,9 @@
+
+Msquid:S10662"/Merge this if statement with the enclosing one.(ç·Ä¼8Ê£ôÎ-
+hsquid:UselessImportCheck	"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8µ±ôÎ-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²ØÉÙ8Õß‚ôÎ-
+|squid:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(É¹É×øÿÿÿÿ8àÂôÎ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È®Ôîşÿÿÿÿ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘ûß„ıÿÿÿÿ8¦áÅôÎ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊÊÀ±8õÆôÎ-

@@ -1,0 +1,7 @@
+
+lsquid:S11490"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò½ñ¡şÿÿÿÿ8Îæ¹Î-
+Wsquid:S1854"@Remove this useless assignment to local variable "distinctChar".(”Î°é
+Hsquid:S1481"1Remove this unused "distinctChar" local variable.(”Î°é
+Ssquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ

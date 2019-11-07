@@ -1,0 +1,14 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢¦Ğ8Ï³íÎ-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8à“¶íÎ-
+†squid:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(çÅ¨şüÿÿÿÿ8¾›íÎ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼àıÂıÿÿÿÿ8Ä•ÖíÎ-
+Ssquid:S1751!"6Remove this "return" statement or make it conditional.(¸®Ã'8Óá­íÎ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È®Ôîşÿÿÿÿ
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8à“¶íÎ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë›¶‚üÿÿÿÿ8õ×ÑíÎ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëÏ”‡ıÿÿÿÿ8ÎÛÓíÎ-
+‹ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8“İ¤íÎ-

@@ -1,0 +1,5 @@
+
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Œ¢·ÇÏ-
+psquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8êºÕÇÏ-
+|squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8±õ´ÇÏ-
+Esquid:S1185"(Remove this method to simply inherit it.(™”” 8êºÕÇÏ-

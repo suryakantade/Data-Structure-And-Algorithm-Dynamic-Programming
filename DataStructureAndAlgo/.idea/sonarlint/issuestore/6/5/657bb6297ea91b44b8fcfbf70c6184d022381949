@@ -1,0 +1,10 @@
+
+=squid:S1659"&Declare "hasUpper" on a separate line.(š¸‹¹
+?squid:S1659"(Declare "hasSpecial" on a separate line.(š¸‹¹
+bsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Î­Î™
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(”šÀ­ÿÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Žš“²
+Fsquid:S1481"/Remove this unused "hasSpecial" local variable.(š¸‹¹
+Zsquid:S1854">Remove this useless assignment to local variable "hasSpecial".(œñ¬—úÿÿÿÿ

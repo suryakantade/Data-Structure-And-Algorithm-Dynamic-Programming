@@ -1,0 +1,27 @@
+
+>squid:S2189/""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+>squid:S2189K""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+_squid:S2276="CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ
+_squid:S2276Y"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(åû÷ şÿÿÿÿ
+T
+squid:S106W"9Replace this use of System.out or System.err by a logger.(ÕõÁ÷úÿÿÿÿ
+Nsquid:S1135
+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Nsquid:S11356"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Nsquid:S1135A"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Nsquid:S1135R"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Nsquid:S1135]"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S21425"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S2142@"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S2142Q"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S2142\"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148S"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148^"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

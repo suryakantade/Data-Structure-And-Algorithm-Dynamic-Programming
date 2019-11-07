@@ -1,0 +1,7 @@
+
+Msquid:S00108I")Either remove or fill this block of code.(ßÕÿùÿÿÿÿ8É«Î»Î-
+Hsquid:S1481B"*Remove this unused "lists" local variable.(óæÏº8ì¤»Î-
+jsquid:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(½ôÓ¼8ëÅ…»Î-
+Wsquid:S1854B"9Remove this useless assignment to local variable "lists".(óæÏº8ì¤»Î-
+Hsquid:S1481A"*Remove this unused "count" local variable.(æÕ¿¼8Ö±¨»Î-
+Wsquid:S11184":Add a private constructor to hide the implicit public one.(ŒÅüg8ëÅ…»Î-

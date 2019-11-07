@@ -1,0 +1,12 @@
+
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(«œÌÆ8Ì† ÀÏ-
+Lsquid:S1481".Remove this unused "tmpColumn" local variable.(íß¥š8ü¾¶»Ï-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í¾ äıÿÿÿÿ8Ú‹—»Ï-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(İ–Êüÿÿÿÿ8È—¥»Ï-
+[squid:S1197"8Move the array designator from the variable to the type.(á‚‰›ÿÿÿÿÿ8åú»ºÏ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÌŸµÿÿÿÿÿÿ8Ô“»Ï-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€‡óÊúÿÿÿÿ

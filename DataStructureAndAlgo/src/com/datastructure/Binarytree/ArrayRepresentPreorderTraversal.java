@@ -2,7 +2,7 @@ package com.datastructure.Binarytree;
 
 import java.util.Stack;
 
-public class ArrayRepresentPreorderTraversal {
+public class sArrayRepresentPreorderTraversal {
   public static boolean isIncreasing = false;
   public static void main(String[] args) {
     int[] i = {5,4,3,6,7,8,9};

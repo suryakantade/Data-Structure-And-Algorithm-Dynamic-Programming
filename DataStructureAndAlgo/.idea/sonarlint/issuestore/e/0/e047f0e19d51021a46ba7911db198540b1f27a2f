@@ -1,0 +1,10 @@
+
+3squid:S1643""Use a StringBuilder instead.(•º
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(²şœô
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò©Í“
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨ìŸùÿÿÿÿ
+asquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ
