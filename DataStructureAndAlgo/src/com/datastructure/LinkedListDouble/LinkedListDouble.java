@@ -1,6 +1,8 @@
 package com.datastructure.LinkedListDouble;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class LinkedListDouble {
@@ -61,16 +63,17 @@ public class LinkedListDouble {
 
   public void createBinaryList(int n) {
     for (int i = 1; i < n; i++) {
-      addNodeInEnd(i%2);
+      addNodeInEnd(i % 2);
     }
   }
+
   public void create2DList(int n) {
     for (int i = 1; i < n; i++) {
       addNodeInEnd(i);
     }
   }
 
-  public boolean  addNodeInEnd(Integer val) {
+  public boolean addNodeInEnd(Integer val) {
 
     // tmp = tmp==null ? new Node(val, null, null):tmp;
     if (this.source == null) {
@@ -84,6 +87,20 @@ public class LinkedListDouble {
       tmp.next = new Node(val, null, tmp);
       return true;
     }
+  }
+
+  public Node addNodeInEnd(Node start, Node n) {
+    n.next = null;
+    if (start == null) {
+      start = n;
+    } else {
+      Node tmp = start;
+      while (tmp.next != null) {
+        tmp = tmp.getNext();
+      }
+      tmp.next = n;
+    }
+    return start;
   }
 
   public void traverse(Node node) {
@@ -144,10 +161,12 @@ public class LinkedListDouble {
 
   public int size(Node root) {
     int count = 0;
-    Node tmp  = root;
-    while(tmp.hasNext()){
-      count++;
-      tmp = tmp.next;
+    Node tmp = root;
+    if (null != tmp) {
+      while (tmp.hasNext()) {
+        count++;
+        tmp = tmp.next;
+      }
     }
     return count;
   }
@@ -180,6 +199,24 @@ public class LinkedListDouble {
       propagateTwice = null != propagateTwice.next ? propagateTwice.next.next : propagateTwice.next;
     }
     return node;
+  }
+
+  public List<Node> divideLinkedList(Node n, int size) {
+    Node tmp = n;
+    int count = 1;
+    while (count < size / 2) {
+      tmp = tmp.next;
+      count++;
+    }
+    Node secondHalf = tmp.next;
+    if (null != secondHalf) {
+      secondHalf.setPrev(null);
+    }
+    tmp.setNext(null);
+    List<Node> list = new ArrayList<>(2);
+    list.add(n);
+    list.add(secondHalf);
+    return list;
   }
 }
 

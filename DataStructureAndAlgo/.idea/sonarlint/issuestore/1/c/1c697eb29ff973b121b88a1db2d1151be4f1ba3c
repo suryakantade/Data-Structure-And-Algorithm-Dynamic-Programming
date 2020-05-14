@@ -1,5 +1,5 @@
 
+Xsquid:S1126	"AReplace this if-then-else statement by a single return statement.(ÏìŒ—
 isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á»›ê8µ–Ö…Ï-
 gsquid:S00116"ORename this field "Prev" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦—ı
-Xsquid:S1126	"AReplace this if-then-else statement by a single return statement.(ÏìŒ—
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±‡¦¥úÿÿÿÿ

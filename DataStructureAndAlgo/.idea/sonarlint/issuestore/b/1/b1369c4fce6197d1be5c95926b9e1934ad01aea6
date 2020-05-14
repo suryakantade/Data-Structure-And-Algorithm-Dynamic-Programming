@@ -1,7 +1,10 @@
 
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ×ØŒÿÿÿÿÿ
-usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Î—Õûÿÿÿÿ8Ñ¾—¶Ò-
 V
-squid:S106	"9Replace this use of System.out or System.err by a logger.(²£ß§8“¹ôµÒ-
-_squid:S1126E"AReplace this if-then-else statement by a single return statement.(¶¾ç•8÷Ÿ‚¶Ò-
-Vsquid:S1197"8Move the array designator from the variable to the type.(ççª·8“¹ôµÒ-
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8Öü·ä-
+[squid:S1197"8Move the array designator from the variable to the type.(şà¾ şÿÿÿÿ8“¹ôµÒ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ×ØŒÿÿÿÿÿ
+_squid:S1126G"AReplace this if-then-else statement by a single return statement.(¶¾ç•8Î÷‡¸ä-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Î—Õûÿÿÿÿ8Ñ¾—¶Ò-
+dsquid:S1126N"AReplace this if-then-else statement by a single return statement.(˜Ê½çıÿÿÿÿ8÷Ÿ‚¶Ò-
+_squid:S1126]"AReplace this if-then-else statement by a single return statement.(°éşå8ïî‰¸ä-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£’ø©ıÿÿÿÿ8“èš¸ä-

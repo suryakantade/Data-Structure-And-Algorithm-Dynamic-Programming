@@ -1,4 +1,4 @@
-package SnapDealTest;
+package DealTest;
 
 
 public class TestGetLastRecord {

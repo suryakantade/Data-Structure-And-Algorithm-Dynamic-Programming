@@ -1,20 +1,20 @@
 
 O
-squid:S106"9Replace this use of System.out or System.err by a logger.(¹ùÏ—
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").( Ò†ÿÿÿÿÿÿ
-Esquid:S1481")Remove this unused "aaaa" local variable.( Ò†ÿÿÿÿÿÿ
-asquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(Ë»D
-O
-squid:S106_"9Replace this use of System.out or System.err by a logger.(àèð
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹ùÏ—
+Esquid:S1481")Remove this unused "aaaa" local variable.( Ò†ÿÿÿÿÿÿ
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(›à¿Èùÿÿÿÿ
+squid:S106"9Replace this use of System.out or System.err by a logger.(›à¿Èùÿÿÿÿ
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÝœŠÙþÿÿÿÿ
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡’ýÃüÿÿÿÿ
+squid:S106m"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").( Ò†ÿÿÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥åùµþÿÿÿÿ
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±‡¦¥úÿÿÿÿ
-Usquid:S3516I"9Refactor this method to not always return the same value.(ÙÛÚüÿÿÿÿ
 T
-squid:S106\"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥åùµþÿÿÿÿ
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÝœŠÙþÿÿÿÿ
+Usquid:S3516L"9Refactor this method to not always return the same value.(ÙÛÚüÿÿÿÿ
 O
-squid:S106a"9Replace this use of System.out or System.err by a logger.(Ü´€ü
+squid:S106r"9Replace this use of System.out or System.err by a logger.(Ü´€ü
+asquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(Ë»D
+O
+squid:S106p"9Replace this use of System.out or System.err by a logger.(àèð
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡’ýÃüÿÿÿÿ

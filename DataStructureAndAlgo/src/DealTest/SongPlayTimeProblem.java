@@ -1,7 +1,6 @@
-package SnapDealTest;
+package DealTest;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class SongPlayTimeProblem {

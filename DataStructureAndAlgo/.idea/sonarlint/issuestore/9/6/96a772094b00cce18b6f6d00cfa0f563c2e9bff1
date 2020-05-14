@@ -1,0 +1,24 @@
+
+?squid:S1643^"Use a StringBuilder instead.(Õ¦û„ıÿÿÿÿ8‡øÍó-
+psquid:S3776I"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(±Ï³‡8óÂÓó-
+?squid:S1643v"Use a StringBuilder instead.(Õ¦û„ıÿÿÿÿ8ÙéÒó-
+Usquid:S1994u"7Move the update of "lc" into this loop's update clause.(îÛÈ­8“ÓÔó-
+V
+squid:S106A"9Replace this use of System.out or System.err by a logger.(Šñ‹Ë8æÄ­œó-
+?squid:S1643}"Use a StringBuilder instead.(Õ¦û„ıÿÿÿÿ8ÙéÒó-
+:squid:S1643f"Use a StringBuilder instead.(á‹ì8‡øÍó-
+:squid:S1643N"Use a StringBuilder instead.(á‹ì8×üŒó-
+:squid:S1643V"Use a StringBuilder instead.(àŞÍÌ8‡øÍó-
+@squid:S1643…"Use a StringBuilder instead.(Õ¦û„ıÿÿÿÿ8ÙéÒó-
+Usquid:S1994]"7Move the update of "lc" into this loop's update clause.(Ë•®8øÿĞó-
+Usquid:S1994U"7Move the update of "lc" into this loop's update clause.(Ô÷ô·8øÿĞó-
+Usquid:S1994e"7Move the update of "lc" into this loop's update clause.(Ëµãñ8…ÊÒó-
+Usquid:S1994|"7Move the update of "lc" into this loop's update clause.(×³Ó8¢¥Õó-
+nsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(Î…×‰ûÿÿÿÿ8Õšºó-
+Zsquid:S1994m"7Move the update of "lc" into this loop's update clause.(áê‡¨ıÿÿÿÿ8óÂÓó-
+psquid:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘8Õšºó-
+Zsquid:S1994M"7Move the update of "lc" into this loop's update clause.(Ï‹ª»ùÿÿÿÿ8‡øÍó-
+:squid:S1643n"Use a StringBuilder instead.(àŞÍÌ8ÙéÒó-
+[
+squid:S106C"9Replace this use of System.out or System.err by a logger.(‰Š…øıÿÿÿÿ8×üŒó-

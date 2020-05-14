@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class InOrderPreOrderToPostOrder {
   public static void main(String[] args) {
-    int[] inorder = {4, 2, 5, 1, 3, 6};
+    int[] inorder = {4, 2, 5, 1, 3, 6};  //4 5 2 6 3 1
     int[] preorder = {1, 2, 4, 5, 3, 6};
     findPOstOrder(inorder, preorder, preorder.length);
   }

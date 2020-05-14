@@ -1,0 +1,4 @@
+
+Fsquid:S1172?"/Remove this unused method parameter "numLinks".( °‡ò
+isquid:S3776?"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.( °‡ò
+Ksquid:S2864R"4Iterate over the "entrySet" instead of the "keySet".(‘„Ñ¢
