@@ -1,12 +1,0 @@
-
-ksquid:UselessImportCheck"@Remove this unused import 'javax.xml.bind.SchemaOutputResolver'.(ó≠±Õ8Œè±‚—-
-psquid:S3776}"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ò·úÍ8„ùŒ‚—-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(π⁄˜†8Ç≤ˆ·—-
-Msquid:S1066_"/Merge this if statement with the enclosing one.(©·óÊ8„ùŒ‚—-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(Àˇ¡™8ò§˙·—-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ò‹„Õ8Œè±‚—-
-o squid:LabelsShouldNotBeUsedCheckÜ";Refactor the code to remove this label and the need for it.(êüæ‘8„ùŒ‚—-
-Fsquid:S1604"(Make this anonymous inner class a lambda(ñ‹‹Ñ8õ©®‚—-
-tsquid:S1149Ñ"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(—÷ŸÉ˝ˇˇˇˇ8„ùŒ‚—-
-8squid:S1065Ü"Remove this unused label.(êüæ‘8„ùŒ‚—-

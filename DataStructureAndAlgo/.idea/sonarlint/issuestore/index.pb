@@ -133,8 +133,6 @@ H
 src/hackerrank/Test.java,b/c/bc724b266e3992c57dc7412f30c4d131aee8ad14
 f
 6src/com/datastructure/Binarytree/BinaryTreeIsHeap.java,0/c/0caae6b2bfb73b73d0878505733248f20108c688
-M
-src/zztest/BigbasketTest.java,3/1/31024b318f9f1d3b29444e491651081b5ded045a
 f
 6src/com/datastructure/Matrix/ShiftMatrixKElements.java,1/7/177e080da9ea449999c717cc735f721748e564b7
 c
@@ -259,3 +257,27 @@ G
 src/zztest/TestNew.java,e/e/eef8d93e6bd1b41b25d075de78cd4925c9e5289d
 L
 src/zztest/HelloDocTest.java,a/f/af780042afe261bc0334af9c8e96e85b488e18f7
+F
+src/zztest/ZoTest.java,e/6/e668f55969ad8cc5350d31fb17aee0861c120189
+I
+src/zztest/SuprDaily.java,9/1/918ffbfa596b8af45d7892cbc72f9c1e48b1955c
+P
+ src/zztest/CoumpundInterest.java,b/9/b98ef76fbdf788bd389c819b5da1e9b42662c7ac
+H
+src/zztest/RaedFile.java,c/d/cd47b5c9d391dd3182976143684ee941c86808ba
+F
+src/zztest/Apptio.java,4/1/410c4110becc006844504dfb0b30d06940ed3b15
+I
+src/zztest/KulizTest.java,e/9/e94f6bf53957a8762ded1126c8d7b397651ce0e8
+J
+src/zztest/MaximumSum.java,e/f/ef5c4c2c6f70fd2e1395e60d2435ca8acd2ed92f
+I
+src/zztest/PrintStar.java,a/8/a815df2ce772fd9ca67b85e9d1eb88ad9f33b112
+E
+src/zztest/Paytm.java,8/1/8158b10991d4fbbc04a721634c5132c50344d9f7
+`
+0src/com/datastructure/graph/MultilevelGraph.java,1/9/1933813470f0048d8907834c467f2874fd711885
+E
+src/zztest/TestA.java,8/e/8e7494204cb9df377ea8037fe2d215820d27814d
+G
+src/zztest/MAxHeap.java,a/7/a7dc2bfcf99f9cddd4a036c29b68386ce73a6d9a

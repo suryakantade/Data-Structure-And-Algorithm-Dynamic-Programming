@@ -1,0 +1,12 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÓðÐÈýÿÿÿÿ8×Ôù´°.
+nsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(­ñóÒøÿÿÿÿ8êò¢´°.
+Vsquid:S1994W"8Move the update of "end" into this loop's update clause.(˜áúÐ8ñ¼ë²°.
+ssquid:S1149,"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒÿƒ—ùÿÿÿÿ8Êú¡´°.
+nsquid:S11496"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŒÜè†8‹’›´°.
+isquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(…ÌÎã8œÑÊ´°.
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ë„ýÜ8®®Ãµ°.
+Lsquid:S1125N")Remove the literal "false" boolean value.(ˆ¦¯½ýÿÿÿÿ8¸ýâ³°.
+[squid:S1197"8Move the array designator from the variable to the type.(¨…åµûÿÿÿÿ8Á¡¼µ°.
+Bsquid:S1659"Declare "e" on a separate line.(­¸ï¤üÿÿÿÿ8Á¡¼µ°.
+Bsquid:S1659"Declare "n" on a separate line.(­¸ï¤üÿÿÿÿ8Á¡¼µ°.

@@ -1,0 +1,9 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(á¼óš8ËØçµ€-
+nsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(á¸¸ãüÿÿÿÿ8ËØçµ€-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó€¶8ËØçµ€-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨Äµüùÿÿÿÿ8ËØçµ€-
+_squid:S3457"AFormat specifiers should be used instead of string concatenation.(á¼óš8ËØçµ€-
