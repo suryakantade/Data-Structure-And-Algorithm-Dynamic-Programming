@@ -35,10 +35,11 @@ public class MAxHeap {
     return this.store.peek();
   }
 
-  public int knight(int m, int n, int a, int b, int x, int y) { 
+  public int knight(int m, int n, int a, int b, int x, int y){
     int[][] mat = new int[m][n];
     //for(){}
     //todo:
+    return 1;
 
   }
 
@@ -53,7 +54,7 @@ public class MAxHeap {
 
 
   public int findShortest(int[][] mat, int a, int b, int x, int y) {
-    int[] xDir = {2, 2, -2, -2, 1, 1, -1, -1} ;
+    int[] xDir = {2, 2, -2, -2, 1, 1, -1, -1};
     int[] yDir = {1, -1, 1, -1, 2, -2, 2, -2};
     Queue<Pair> queue = new LinkedList<>();
     ((LinkedList<Pair>) queue).add(new Pair(a, b, 0));
